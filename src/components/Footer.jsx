@@ -5,7 +5,7 @@ const Footer = () =>{
         <div className="footer">
             <div className="top">
                 <div>
-                    <h1>ay haga Travels</h1>
+                    <h1>Indica Travels</h1>
                     <p> Choose Your Favorite destination</p>
                 </div>
                 <div>
@@ -23,9 +23,33 @@ const Footer = () =>{
                     </a>
                 </div>
             </div>
-
             <div className="bottom">
-
+                <div>
+                    <h4>Project</h4>
+                    <a href="/">Change log</a>
+                    <a href="/">Status</a>
+                    <a href="/">License</a>
+                    <a href="/">All versions</a>
+                </div>
+                <div>
+                    <h4>Community</h4>
+                    <a href="/">Git Hub</a>
+                    <a href="/">Issues</a>
+                    <a href="/">Projects</a>
+                    <a href="/">Twitter</a>
+                </div>
+                <div>
+                    <h4>Help</h4>
+                    <a href="/">Support</a>
+                    <a href="/">Troubleshooting</a>
+                    <a href="/">Contact us</a>
+                </div>
+                <div>
+                    <h4>Others</h4>
+                    <a href="/">Terms Of Service</a>
+                    <a href="/">Privacy Policy</a>
+                    <a href="/">License</a>
+                </div>
             </div>
         </div>
     )
