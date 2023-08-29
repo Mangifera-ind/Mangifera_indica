@@ -5,7 +5,7 @@ const Footer = () =>{
         <div className="footer">
             <div className="top">
                 <div>
-                    <h1>Indica Travels</h1>
+                    <h1>ay haga Travels</h1>
                     <p> Choose Your Favorite destination</p>
                 </div>
                 <div>
@@ -25,7 +25,7 @@ const Footer = () =>{
             </div>
 
             <div className="bottom">
-                
+
             </div>
         </div>
     )
